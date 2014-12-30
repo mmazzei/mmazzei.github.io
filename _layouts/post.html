@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+<div class="entry">{{ content }}</div>
+
+<span class="author">{% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%}</span> -
+<span class="date"><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>{{ site.name }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <!-- HEADER -->
+    <!-- TODO: IMPROVE -->
+    <div class="row">
+      <div class="four columns">&nbsp;</div>
+      <div class="four columns">
+        <h1><a href="{{site.baseurl}}/">{{ site.name }}</a></h1>
+      </div>
+      <div class="four columns">&nbsp;</div>
+    </div>
+
+    <div class="row">
+      <div class="four columns">
+        <ul>
+		  {% for post in site.posts %}
+		    <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		  {% endfor %}
+		</ul>
+      </div>
+      <div class="eight columns">
+      	{{ content }}
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <!-- TODO: IMPROVE -->
+  <hr/>
+  <div class="row">
+    <div class="four columns">&nbsp;</div>
+    <div class="eight columns">
+      <span>Page created by {{ site.author }}</span>
+      <span>using <a href="http://getskeleton.com/">Skeleton</a></span>,
+      <span>hosted at <a href="http://github.com">Github</a></span>.
+      <div>
+		<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> Esta obra de <a xmlns:cc="http://creativecommons.org/ns#" href="http://mmazzei.github.io" property="cc:attributionName" rel="cc:attributionURL">mmazzei</a> está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+	  </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
