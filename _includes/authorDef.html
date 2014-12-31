@@ -1,0 +1,7 @@
+{% if page.author %}
+  {% assign authorId = page.author %}
+{% else %}
+  {% assign authorId = site.author %}
+{% endif%}
+
+{% assign author = site.data.authors[authorId] %}
