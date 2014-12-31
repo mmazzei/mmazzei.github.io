@@ -4,8 +4,8 @@ layout: post
 tags: rn40 malezas
 ---
 
-	Nombre común: yuyo colorado, bledo, ataco, moco de pavo.
-	Nombre científico: Amaranthus quitensis (Fam. Amaranthaceae)
+    Nombre común: yuyo colorado, bledo, ataco, moco de pavo.
+    Nombre científico: Amaranthus quitensis (Fam. Amaranthaceae)
 
 ![Yuyo colorado](/images/2014-12-30-yuyo-colorado.jpg "By: AAPRESID")
 
