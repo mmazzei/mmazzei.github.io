@@ -18,5 +18,17 @@ Esta alternativa consiste en ir, con el navegador, a "https://github.com/mmazzei
 
 Puntos a probar:
  * Si accedo al link de arriba siempre muestra un borrador en blanco para poder editar.
- * Puedo subir imágenes.
+ * Puedo subir imágenes (si).
  * Puedo mover archivos de "_drafts" a "_posts".
+
+## Edición n1
+Pude subir una imagen desde:
+ * https://github.com/mmazzei/mmazzei.github.io/issues/1
+
+![macaca](https://cloud.githubusercontent.com/assets/1107605/5589348/248f1dee-90fb-11e4-9e66-dc188f018aa6.jpg)
+
+# LINKS
+ * ![nuevo draft](https://github.com/mmazzei/mmazzei.github.io/new/master/_drafts)
+ * ![nuevo post](https://github.com/mmazzei/mmazzei.github.io/new/master/_posts)
+ * ![subir imagen](https://github.com/mmazzei/mmazzei.github.io/issues/1)
+ * Para editar archivos: https://github.com/mmazzei/mmazzei.github.io/edit/master/_drafts/posting-from-github.md#fullscreen_blob_contents
