@@ -2,3 +2,6 @@
 name:            una paginita
 description:     'mmazzei site at github.io'
 author:          mmazzei
+
+sidebar:
+  posts : 10
