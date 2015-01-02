@@ -3,17 +3,21 @@ title: una paginita
 layout: default
 ---
 
-    Caminante, son tus huellas
-    el camino, y nada más;
-    caminante, no hay camino:
-    se hace camino al andar.
+<div class="poem">
+<p>Caminante, son tus huellas<br>
+el camino, y nada más;<br>
+caminante, no hay camino:<br>
+se hace camino al andar.</p>
 
-    Al andar se hace camino,
-    y al volver la vista atrás
-    se ve la senda que nunca
-    se ha de volver a pisar.
+<p>Al andar se hace camino,<br>
+y al volver la vista atrás<br>
+se ve la senda que nunca<br>
+se ha de volver a pisar.</p>
 
-    Caminante, no hay camino,
-    sino estelas en la mar.
+<p>Caminante, no hay camino,<br>
+sino estelas en la mar.</p>
 
-        Antonio Machado
+<span class="author">Antonio Machado</span>
+</div>
+
+[Archivo](/archive)

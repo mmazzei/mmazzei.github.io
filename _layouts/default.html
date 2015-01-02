@@ -7,17 +7,11 @@
     {% include header.html %}
 
     <div class="row">
+      <div class="two columns">&nbsp;</div>
       <div class="eight columns">
         {{ content }}
       </div>
-      <div class="four columns">
-        <ul>
-          {% for post in site.posts limit:site.sidebar.posts %}
-            <li>{{ post.date | date: "%d-%m-%Y" }} &raquo; <a class="no-underline" href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-          <li><a href="{{site.base_url}}/archive">Archivo</a></li>
-        </ul>
-      </div>
+      <div class="two columns">&nbsp;</div>
     </div>
 
     {% include footer.html %}
