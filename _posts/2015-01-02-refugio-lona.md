@@ -52,7 +52,7 @@ Y, para dormir, cierro completamente curvando el suelo hacia arriba del lado de 
 En las fotos no se ve, porque aún no los tenía, pero los plieges de la estructura van asegurados con broches de metal. Siempre se trata de que la parte de la lona que viene desde arriba cubra a la parte de abajo, para que el agua al correr caiga hacia afuera.
 
 ## Desventajas
- * Un viento muy fuerte podría tumbar la bicicleta sobre mí, si no está bien asegurada.
+ * Un viento muy fuerte podría tumbar la bicicleta sobre mí, si no está bien asegurada. Ya se me cayó encima y entiendo que puede ser muy doloroso.
  * Cualquier clase de insectos podría buscar refugio dentro de mi guarida.
    * Si mantengo una curvatura hacia arriba en los extremos del suelo del refugio, sólo entrarían los voladores.
  * Si el viento cambia de dirección y entra lateralmente, podría causar problemas.
