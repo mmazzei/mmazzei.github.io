@@ -1,8 +1,8 @@
 a.no-underline {text-decoration: none;}
 .poem {text-align: center;}
 .poem .author {margin-left: 10em;}
-
 .footer, .footer a {
 	color: rgb(173,173,173);
 	text-decoration: none;
 }
+.entry img { max-width: 100%; }
