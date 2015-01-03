@@ -5,4 +5,4 @@ a.no-underline {text-decoration: none;}
 	color: rgb(173,173,173);
 	text-decoration: none;
 }
-.entry img { max-width: 100%; }
+.entry img { max-width: 100%; width: 100%;}
