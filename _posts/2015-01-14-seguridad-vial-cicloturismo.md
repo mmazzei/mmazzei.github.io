@@ -1,3 +1,9 @@
+---
+title: Seguridad vial en cicloturismo
+layout: post
+tags: rn40
+---
+
 ## ¿Qué es esto?
 Este artículo pretende ser una guía, elaborada en base a mi experiencia personal, que ayude a tener una mejor idea de los puntos más importantes a tener en cuenta al momento de largarse a surcar las rutas en bici.
 
