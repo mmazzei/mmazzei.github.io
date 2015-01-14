@@ -11,6 +11,7 @@ Este artículo pretende ser una guía, elaborada en base a mi experiencia person
 
 ### ¿Cuándo viajar?
 A pesar de que tengamos ganas de salir a la ruta, algunos días y momentos son mejores que otros para hacerlo.
+
  * Las tormentas muy fuertes le quitan visibilidad a los automovilistas, y dominio sobre el vehículo en curvas o frenadas. Esto genera un peligro para la bici ya que no sólo nos ven muy tarde sino que podrían no lograr esquivarnos.
  * El calor excesivo sofoca y puede producir mareos. Estar demasiado cansados o no mantener un buen nivel de atención es poco recomendable para la ruta.
  * La noche no es tampoco el mejor momento del día para andar. A pesar de que se la elija para esquivar las horas de sol. Somos menos visibles en la oscuridad.
