@@ -14,9 +14,17 @@ Durante el recorrido traté de integrarme más al río, difrutando de su vista y
 
 Las primeras dos horas, con el frescor de la mañana y a la sombra de las inmensas paredes rocosas del cañón, fueron sencillas de pedalear y se pasaron rápidamente. Crucé un par de generadores hidroeléctricos y me dejaba sorprender con las vistas del río.
 
+[![](https://cloud.githubusercontent.com/assets/1107605/5793581/704b8016-9f28-11e4-8bdc-a7960c90978a.JPG)](https://cloud.githubusercontent.com/assets/1107605/5793580/7023799a-9f28-11e4-9c85-e3d111a281fd.JPG)
+
 A partir de las 10hs, ya con el sol pegando un poco, aprovechaba cada recodo de la ruta en que pudiera bajar al río y que tuviera algún que otro árbol dando sombra, para refrescarme, descansar y disfrutar del paisaje: las vistas, los aromas, el sonido del agua fluyendo, el viento en las ramas y los pajaritos: patos, unos que gritaban como cuervos, otros más chicos,...
 
+[![](https://cloud.githubusercontent.com/assets/1107605/5793583/7068cc48-9f28-11e4-91d5-68fcad06fb88.JPG)](https://cloud.githubusercontent.com/assets/1107605/5793582/705d4cec-9f28-11e4-848f-2adb3e6d4247.JPG)
+
+[![](https://cloud.githubusercontent.com/assets/1107605/5793587/70a9d940-9f28-11e4-926d-8a2480350b8f.JPG)](https://cloud.githubusercontent.com/assets/1107605/5793586/709984a0-9f28-11e4-86ce-e75b68fb2ac9.JPG)
+
 Dormí alguna que otra siesta en esos descansos. El fluir del agua entre las rocas y raíces, zigzagueante, fresco y murmullante era hipnótico. También charlé con unos caballos que pasaron por ahí, y que me enseñaron un buen lugar para beber del río. Muy buena gente esos caballos. Me dieron ganas de tener uno como mascota.
+
+[![](https://cloud.githubusercontent.com/assets/1107605/5793585/7089b372-9f28-11e4-973e-e29cd635150f.JPG)](https://cloud.githubusercontent.com/assets/1107605/5793584/7078e894-9f28-11e4-828c-afb2b27bdc61.JPG)
 
 Fue un hermoso paseo, largo y con la libertad de no tener apuro por llegar, teniendo en cuenta que disponía de todo el día para hacer sólo 50Km.
 
@@ -25,6 +33,8 @@ Sólo la última etapa fue difícil. Unos 10Km que me llevaron 2hs desde las 13:
 El calor era excesivo, el sol brillaba en lo alto, con rayos fulgurantes que parecían decididos a traspasar la piel hasta los huesos, del que huía despavorido, agradeciendo a los cielos por cada roca o cartel que me diera al menos un poco de sombra, escasa en esta parte.
 
 El paisaje se había tornado más árido, rocoso y cubierto de cactus y plantas espinosas, hostiles a mí, al menos. Supongo que se trataba de la cima de un cerro. El camino era ahora una subida incesante, empinada, que a cada vuelta me daba esperanzas vanas de volver a descender o, al menos, amesetarse.
+
+[![](https://cloud.githubusercontent.com/assets/1107605/5793589/70cd6284-9f28-11e4-8cbf-eb4f2876d2ba.JPG)](https://cloud.githubusercontent.com/assets/1107605/5793588/70bcc974-9f28-11e4-9c3b-d3b85f466cb9.JPG)
 
 El agua que llevaba ya estaba caliente, y no me quedaba más que medio litro (la medida que considero siempre como "de emergencia"). El río estaba lejos, ya no podía valerme de aquello. Sólo deseaba volver a acercarme.
 
