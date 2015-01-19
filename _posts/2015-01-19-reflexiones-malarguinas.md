@@ -4,7 +4,7 @@ layout: post
 tags: rn40
 ---
 
-La abundancia de ratos libres, rodeado de montañas, bajo la sombra de los árboles, generan un contexto que incita a la reflexión. Aquí dejo registro de los primeros pensamientos profundos que vienen a mi mente, para darles una existencia ajena a la mía, una vida aparte, librándolos como mensajes en botellas, para que el tiempo le asigne el destino que mejor le corresponda, que, ansío, sean fértiles tierras donde puedan unirse a otros para generar nuevas ideas, para aproximarse a una verdad más grande, para acercarse a la sabiduría.
+La abundancia de ratos libres, rodeado de montañas, bajo la sombra de los árboles, genera un contexto que incita a la reflexión. Aquí dejo registro de los primeros pensamientos profundos que vienen a mi mente, para darles una existencia ajena a la mía, una vida aparte, librándolos como mensajes en botellas, para que el tiempo les asigne el destino que mejor les corresponda, que, ansío, sean fértiles tierras donde puedan unirse a otros para generar nuevas ideas, para aproximarse a una verdad más grande, para acercarse a la sabiduría.
 
 *Si Dios existe, ¿por qué habría sido tan cruel como para darle a los dinosaurios brazos demasiado cortos para rascarse la panza, con el agravante de que, cuando apenas comenzaban a evolucionar para convertirse en formas de vida superiores, los reventó a todos de un meteoritazo?*
 
