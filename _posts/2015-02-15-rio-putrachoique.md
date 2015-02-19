@@ -36,9 +36,15 @@ Entre mate y mate, acompañado por mi pancito casero de nueces y pasas al fogón
 
 La configuración de corona-piñón que le dejé a la bici resultó ser bastante cómoda para este camino.
 
+[![](https://cloud.githubusercontent.com/assets/1107605/6267301/78ca4882-b821-11e4-98ee-8daff01f1c8e.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267300/78c9e6f8-b821-11e4-9efa-7f6d89c20c07.JPG)
+
 ¿El camino? Lomadas muy suaves tendiendo a subidas, la primer mitad, y a bajadas, la segunda. El viento mayormente a favor ayudó mucho y los 75Km hasta el río se hicieron muy sencillos. No seguí pedaleando porque el plan era pasar por Gdor. Costa al día siguiente ¡la última ciudad que veré en 220Km!
 
 Encontré un sauce bajo y enramado a cinco o seis metros de la banquina, regalando sombra, protección contra el viento, escondite y leña. Como estaba sólo a 200m del río, también pude darme un "baño de inmersión".
+
+[![](https://cloud.githubusercontent.com/assets/1107605/6267303/79541990-b821-11e4-9512-319fd3dedfa9.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267302/78cc9574-b821-11e4-8ada-e31f499d73fc.JPG)
+
+[![](https://cloud.githubusercontent.com/assets/1107605/6267305/7a03f6bc-b821-11e4-87dc-09b95c18d16d.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267304/795497d0-b821-11e4-9db5-00420fe4ea08.JPG)
 
 Estoy muy contento con esta forma de viajar, buscando refugios en el camino, con muchos kilómetros para elegir cada vez, sobreviviendo de lo que llevo encima, a solas, tranquilo, teniendo que ingeniármelas para hacer de cada lugar algo medianamente habitable, recolectando piedras, leña, agua ¡hasta comida!
 
