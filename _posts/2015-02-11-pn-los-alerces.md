@@ -20,6 +20,8 @@ La guardaparques tenía una maqueta en madera del camping, con los números de p
 
 Recorrí una senda para ver la cascada del arroyo nosecuanto. Muy bonita la cascada, no tan llamativo el bosque (¡Oh, Lago Puelo, qué nostalgia por tí!)
 
+[![](https://cloud.githubusercontent.com/assets/1107605/6267747/96ac2e7a-b825-11e4-8b36-115926fbfe64.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267746/962efffe-b825-11e4-973f-b8c1cc03a77a.JPG)
+
 En el camping conocí a una pareja de biciviajeros. Ellos viajan con un gato. Lo llevan en una cajita delante de la bici. Realmente llamativo para mí. Cada vez que paraban a descansar, soltaban un rato al animal para que pasee, y durante la noche lo dejaban que ande a sus anchas, ¡y el gato no tenía problemas!
 
 Los dos días que siguieron sólo confirmaron la primer impresión que tuve del parque: creo que es más un lugar destinado a la preservación del ecosistema que a recibir visitantes.
@@ -35,5 +37,9 @@ Los dos días que siguieron sólo confirmaron la primer impresión que tuve del 
 Renegué mucho con el ripio. Al 3er día de transitarlo, sólo pensaba en marcharme del parque, que me daba ripio a cambio de nada más que campings con vista al lago y alguna que otra senda.
 
 Quizá yendo con más tiempo, en otro vehículo, o con otras expectativas, pueda convertirlo en una experiencia más llevadera. Yo pretendía muchos lugares donde meterme entre los arbolitos y sentarme un rato en silencio a contemplar lagos o arroyitos mientras hacía un alto en el viaje.
+
+[![](https://cloud.githubusercontent.com/assets/1107605/6267751/971499f6-b825-11e4-937c-51fe4bc44e43.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267750/96f60de2-b825-11e4-9be7-ea4a363fc15f.JPG)
+
+[![](https://cloud.githubusercontent.com/assets/1107605/6267753/97424f54-b825-11e4-98fd-90567b995e4b.JPG)](https://cloud.githubusercontent.com/assets/1107605/6267752/97252b40-b825-11e4-8297-f655eda897c2.JPG)
 
 No estoy satisfecho con este desvío. Fueron 80Km de ripio que no valieron tanto la pena. Me quedo con el desvío por Pehuenia.
