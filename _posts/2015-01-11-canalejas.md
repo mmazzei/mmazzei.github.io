@@ -10,7 +10,7 @@ layout: post
 
 Esperaba que la jornada de Villegas a Realicó no se repitiera. Esta fue peor: además del calor agobiante y el viento en contra, estaban las inmensas lomadas (algunas tan altas que, en bajada, llegaba a más de 50Km/h) y, peor aún... las rosetas.
 
-[![](/images/2015-01-12-canalejas_0_thumb.jpg)](/images/2015-01-12-canalejas_0.jpg)
+[![](/images/2015-01-11-canalejas_0_thumb.jpg)](/images/2015-01-11-canalejas_0.jpg)
 
 La roseta: un excelente invento de la naturaleza para asegurar que ciertas áreas no puedan ser pisadas por una bici. Su forma es casi esférica, de unos 5mm de diámetro, con espinas largas todo alrededor por lo que, sin importar cómo se las pise, siempre se clavan.
 
@@ -42,7 +42,7 @@ Afortunadamente, malas y buenas experiencias se van alternando. El policía del 
 
 Comimos un asado con Gabriel y José (el enfermero). José había preparado unos morrones en conserva que estaban geniales para acompañar la carne. Luego nos entretuvimos charlando un rato largo antes de ir a dormir.
 
-[![](/images/2015-01-12-canalejas_1_thumb.jpg)](/images/2015-01-12-canalejas_1.jpg)
+[![](/images/2015-01-11-canalejas_1_thumb.jpg)](/images/2015-01-11-canalejas_1.jpg)
 
 ### Anécdotas al margen
 
