@@ -14,7 +14,7 @@ Desayuné bastante bien y salí. A los 40Km frené en Lincoln, tomé un café co
 
 A partir de allí, el viento en contra fue persistente y me agotó al punto de que llegué a descansar cada 5Km durante el último tramo (cada tramo tenía una longitud de "Un Pinzon", aproximadamente 17Km, y esta unidad de medida se define como la distancia que recorría sin descansar durante las dos semanas previas al viaje, entre mi casa y Pinzon).
 
-[![](/images/2014-01-07-gral-pinto_0_thumb.jpg)](/images/2014-01-07-gral-pinto_0.jpg)
+[![](/images/2015-01-07-gral-pinto_0_thumb.jpg)](/images/2015-01-07-gral-pinto_0.jpg)
 
 Al llegar a Gral. Pinto, pretendía sólo almorzar y descansar antes de seguir por otros 40Km. Pero me hablaron tan bien del Camping Municipal con su pileta que, pensé, no estaría mal darme el gusto luego de haber dormido una noche entre la mugre. Además, el camping tenía buffet, por lo que podría incluso cenar bien.
 

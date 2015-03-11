@@ -20,7 +20,7 @@ Al rato cambió un poco el viento (¿o giró la ruta?) y ya lo tenía a favor. N
 
 Cuando llegué a Villegas, mi intención era sólo descansar un par de horas hasta que bajara un poco el sol. Otra vez mencionaron camping con pileta. Otra vez me gustó la idea.
 
-[![](/images/2014-01-08-gral-villegas_0_thumb.jpg)](/images/2014-01-08-gral-villegas_0.jpg)
+[![](/images/2015-01-08-gral-villegas_0_thumb.jpg)](/images/2015-01-08-gral-villegas_0.jpg)
 
 Antes de acampar fui a hacer las compras, tenía hambre. Grave error: me sobró muucha comida (esto sucedería varias veces durante el viaje). "No ir al super con hambre, no ir al super con hambre,..." me lo repetía una y otra vez para que se me grabara bien, sin éxito.
 
