@@ -1,5 +1,5 @@
 ---
-title: Dia 3, General Villegas
+title: Día 3, General Villegas
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Dia 22, Villa Pehuenia
+title: Día 22, Villa Pehuenia
 layout: post
 ---
 

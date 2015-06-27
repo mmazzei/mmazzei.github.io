@@ -1,5 +1,5 @@
 ---
-title: Dia 8, San Rafael
+title: Día 8, San Rafael
 layout: post
 ---
 

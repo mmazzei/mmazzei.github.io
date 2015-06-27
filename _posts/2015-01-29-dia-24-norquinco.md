@@ -1,5 +1,5 @@
 ---
-title: Dia 24, Ñorquinco
+title: Día 24, Ñorquinco
 layout: post
 ---
 

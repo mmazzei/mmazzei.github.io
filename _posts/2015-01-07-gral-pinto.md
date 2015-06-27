@@ -1,5 +1,5 @@
 ---
-title: Dia 2, General Pinto
+title: Día 2, General Pinto
 layout: post
 ---
 

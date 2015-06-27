@@ -1,5 +1,5 @@
 ---
-title: Dia 1, Laplacette
+title: Día 1, Laplacette
 layout: post
 ---
 

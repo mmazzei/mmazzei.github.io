@@ -1,5 +1,5 @@
 ---
-title: Dia 11, El Nihuil
+title: Día 11, El Nihuil
 layout: post
 ---
 

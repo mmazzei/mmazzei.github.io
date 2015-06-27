@@ -1,5 +1,5 @@
 ---
-title: Dia 5, Nueva Galia
+title: Día 5, Nueva Galia
 layout: post
 ---
 

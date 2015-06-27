@@ -1,5 +1,5 @@
 ---
-title: Dia 41, Río Putrachoique
+title: Día 41, Río Putrachoique
 layout: post
 ---
 

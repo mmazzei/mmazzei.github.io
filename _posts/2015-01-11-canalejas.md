@@ -1,5 +1,5 @@
 ---
-title: Dia 6, Canalejas
+title: Día 6, Canalejas
 layout: post
 ---
 
