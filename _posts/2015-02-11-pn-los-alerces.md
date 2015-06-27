@@ -1,5 +1,5 @@
 ---
-title: Dias 37 al 39, Parque Nacional Los Alerces
+title: Días 37 al 39, Parque Nacional Los Alerces
 layout: post
 ---
 
