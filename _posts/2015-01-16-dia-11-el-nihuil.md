@@ -5,7 +5,7 @@ layout: post
 
 | **Inicio**              | Valle Grande, 7:00hs |
 | **Fin**                 | El Nihuil, 15:30hs |
-| **Distancia** | 54Kms |
+| **Distancia** | 54Km |
 | **Alojamiento**         | Camping Municipal. Malísimo: básicamente una banquina ancha con dos parrilleros y una canilla. |
 
 El recorrido de hoy, entre Valle Grande y El Nihuil, atravezó todo el Cañón del Atuel en un tramo íntegramente de ripio, con lomadas, badenes, curvas y recontracurvas.

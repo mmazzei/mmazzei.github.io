@@ -5,7 +5,7 @@ layout: post
 
 | **Inicio**      | El Nihuil, 8:00hs |
 | **Fin**         | El Sosneado, 14:50hs |
-| **Distancia**   | 110Kms |
+| **Distancia**   | 110Km |
 | **Alojamiento** | Hostería en reparación, debajo del quincho, bien oculto y protegido. |
 
 En El Nihuil conocí a un par de mochileros que viajaban sin dinero e iban vendiendo pulseritas y haciendo malabares para poder conseguir para comer. A veces no tenían para comer o terminaban todos los días a base de arroz. Estaban muy flacos.
