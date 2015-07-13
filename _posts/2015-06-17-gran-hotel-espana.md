@@ -3,7 +3,7 @@ title: Gran Hotel España
 layout: post
 ---
 
-### Nota preliminar
+### Notas preliminares
 
 Escrito desde el teclado virtual de un iPhone, con el único objetivo de molestar a compañeros de oficina a quienes considero, a modo de broma, fanboys de Apple. No pretende ser más que una ironía.
 
