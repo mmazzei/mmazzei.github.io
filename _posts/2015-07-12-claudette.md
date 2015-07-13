@@ -3,6 +3,16 @@ title: Claudette
 layout: post
 ---
 
+### Notas preliminares
+
+Este es un relato vivo, un documento que puede ir cambiando, siendo corregido, recortado y extendido durante el proceso de eliminar la plaga de errores gramaticales que sembré mientras lo redactaba.
+
+Sólo la trama que yo he elegido se mantendrá constante, porque mil tramas puede haber en un texto, libres a la interpretación que el lector decida. No me considero responsable de alterar la historia que hayas elegido por cambiar una coma de lugar, una palabra o corregir el error que fuera.
+
+Basado en una historia real, es mi versión de los hechos. Porque, si un simple texto, dentro de los límites estrechos que marca el lenguaje, da lugar a múltiples versiones, qué tanto más dará la realidad misma.
+
+### Claudette
+
 Contaré una historia que ocurrió hace mucho, mucho tiempo, en una época en que los inviernos aún eran fríos y los abriles, lluviosos. Tantos años han transcurrido desde entonces, que ya se ha convertido en leyenda, que la verdad y el mito se entrelazaron y no es posible distinguir entre ambas.
 
 La relataré de la forma en que me ha sido transmitida, al abrigo de un fogón, un gris domingo de otoño, bajo la luz de una pálida luna. Una noche azul en que sólo se oía el crepitar de las llamas, el canto de los grillos, quejidos lejanos de un ave cuyo sueño interrumpió el inesperado acercarse de algún perro, y la voz de quien narraba, un anciano de largo pelo blanco, en cuya frente no había ya lugar para nuevas arrugas, sobreviviente de aquella fatídica cena: un protagonista.
