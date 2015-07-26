@@ -58,3 +58,4 @@ Los dos días que estuve aquí los dediqué a riberear y a limpiar la bici. Fue 
   - Tuve que tirar la cámara que no se rompió, porque el pico estaba tapado con tibetano y no podía inflarla ni siquiera con un compresor.
   - ¡necesito cubierta nueva urgente!
  - La ribera es muy bonita. Vale la pena ir a pasar el día allí. Tiene más de 5Km de largo y está asfaltada. Además hay banquitos cada 30 o 40m, y tiene playas. La vista es de un valle encerrado por altas montañas, bañado por el río y cubierto de árboles.
+ - En esta ciudad conocí [el ñaco]({% post_url 2015-01-24-el-naco %}).
