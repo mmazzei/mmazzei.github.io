@@ -28,13 +28,13 @@ Sabía del tramo hasta Pino Hachado que sería todo subida, tras unos 20Km de ll
 
 Resultó ser que mi intento de llegar a Pino Hachado para las 7:00hs, antes de que el viento aparezca (oh, que ingenuo fui) para poder recorrer todas las subidas con facilidad fueron vanos. Desde temprano ya había viento. Y no era una brisa, era un ventarrón bastante fuerte que, a medida que avanzaba, iba en aumento. Encima siempre estaba en contra, a pesar de las curvas. Tan fuerte era, que tenía que usar los cambios más livianos y esforzarme hasta en las pendientes en bajada.
 
-[![](https://cloud.githubusercontent.com/assets/1107605/6106247/6d7becbe-b03e-11e4-84ba-725978295dc0.JPG)](https://cloud.githubusercontent.com/assets/1107605/6106184/ee2cc14a-b03d-11e4-88b7-e7fe3d4c4930.JPG)
+[![](/images/2015-01-27-villa-pehuenia_2_thumb.jpg)](/images/2015-01-27-villa-pehuenia_2.jpg)
 
 Llegado cierto punto, ya no podía subir pedaleando. Tenía que bajar de la bici y empujarla. Y, llegada la "cuesta del viento", me costaba también caminar. Empujaba 3 o 4 metros y me detenía, repitiendo una y otra vez. Era tal el viento, que me empujaba a mi, de pie, hacia atrás. ¡Incluso movía la bici de costado! Tenía que sostenerla con fuerza, hacia abajo, para que no se me vuele. Nunca vi nada igual.
 
 El viento no pudo opacar la apreciación del paisaje desde Las Lajas hacia Pino Hachado: poco a poco va apareciendo vegetación verde y pasturas que reemplazan a los espinos que crecen en lo árido. En valles profundos, los animales pastan junto a un arroyo, tan lejanos que parecen puntitos a la vista. Una inmensa roca erosionada corona el inicio de la cuesta del viento, y proteje a un rancho en esa inmensa estancia.
 
-[![](https://cloud.githubusercontent.com/assets/1107605/6106246/6d7166e0-b03e-11e4-85df-4dad84879e0a.JPG)](https://cloud.githubusercontent.com/assets/1107605/6106185/ee37cb9e-b03d-11e4-8047-8b174a80e177.JPG)
+[![](/images/2015-01-27-villa-pehuenia_1_thumb.jpg)](/images/2015-01-27-villa-pehuenia_1.jpg)
 
 A sólo 10Km/h de promedio, a las 11:30hs, llegué a un pequeño complejo de cabañas ubicado a 300m del desvío hacia Villa Pehuenia. Era el primer refugio que veía en horas de haber estado expuesto al viento, que me aturdía y empujaba a todas partes, no me dejaba escuchar ni mis pensamientos.
 
@@ -43,7 +43,7 @@ Allí me compré un pan casero y calenté agua pa´los mates. Me quedé hasta la
 ### Hacia Pehuenia
 A las 15hs, sin muchas ganas de salir al viento, sólo motivado porque restaban 45Km de camino en "excelente ripio, mejor que el asfalto" y en bajada, donde "las bardas me protegerían del viento", partí hacia Villa Pehuenia.
 
-[![](https://cloud.githubusercontent.com/assets/1107605/6106248/6d81adc0-b03e-11e4-9fd0-7514c3879071.JPG)](https://cloud.githubusercontent.com/assets/1107605/6106201/0fc72ce6-b03e-11e4-9faf-357f9e060393.JPG)
+[![](/images/2015-01-27-villa-pehuenia_3_thumb.jpg)](/images/2015-01-27-villa-pehuenia_3.jpg)
 
 El ripio era muy malo, lleno de sierritas y piedras grandes, las bajadas sólo aparecían tras subidas, excepto en dos tramos de 5Km cada uno, que fueron casi todo bajada (uno de ellos lo hice a pie porque era intransitable para la bici), y el viento siempre seguía en contra.
 
