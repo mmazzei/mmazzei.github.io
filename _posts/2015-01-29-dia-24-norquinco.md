@@ -30,6 +30,8 @@ El camino a Ñorquinco arrancó bien. Unos cuantos kilómetros en bajada, con vi
 
 Lo que siguió fue todo ondulado, ligeramente en descenso, y cada vez más feo, hasta que, unos 10Km antes de Ñorquinco se puso fiero en serio.
 
+[![](/images/2015-01-29-norquinco_0_thumb.jpg)](/images/2015-01-29-norquinco_0.jpg)
+
 Este último tramo lo hice bien despacio para no romper la bici, y porque la cubierta delantera ya está muy gastada. Temía que se reventara de un momento a otro.
 
 Lo más molesto del camino, peor aún que los tábanos (que te pican si vas a menos de 12,5Km/h), son losc onductores de 4x4, que pasan a 50cm de distancia, aunque vayan en otra dirección, a toda velocidad. Así levantan nubes de polvo que se meten en nariz y ojos, y que no dejan ver, además de piedritas y piedrotas. Pude ver varios parabrisas rotos al costado del camino, y un par de veces, me golpearon pequeñas piedras en las piernas.
@@ -37,3 +39,5 @@ Lo más molesto del camino, peor aún que los tábanos (que te pican si vas a me
 Llegando a Ñorquinco, el paisaje cambia un poco y aparecen establecimientos ganaderos, con hermosos prados cubiertos de pasturas, salpicados por algún que otro pantano o laguna, bordeados por arroyos, de un aspecto similar a La Comarca, en la Tierra Media.
 
 Me llamaron la atención las vacas y toros, inmensos y con una musculatura muy marcada ¿será por andar tanto entre los cerros?
+
+[![](/images/2015-01-29-norquinco_1_thumb.jpg)](/images/2015-01-29-norquinco_1.jpg)
