@@ -5,7 +5,7 @@ layout: post
 
 | **Inicio**             | Las Lajas, 5:00hs |
 | **Fin**                 | Villa Pehuenia, 21:00hs |
-| **Distancia**       | 110Km |
+| **Distancia**       | 110Km (12Km en patrullero) |
 | **Alojamiento**    | Camping "Lagrimitas". Regular. No hay lugar para sentarse más que el piso sin pasto y sucio, la iluminación es pobre. Caro para lo que ofrece ($100). |
 
 ### Amaneciendo
