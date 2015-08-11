@@ -1,6 +1,7 @@
 ---
 title: Día 5, Nueva Galia
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Realicó, 7:00hs |

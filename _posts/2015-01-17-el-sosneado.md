@@ -1,6 +1,7 @@
 ---
 title: Día 12, El Sosneado
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | El Nihuil, 8:00hs |

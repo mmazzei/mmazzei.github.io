@@ -1,6 +1,7 @@
 ---
 title: Día 6, Canalejas
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Nueva Galia, 7:30hs |

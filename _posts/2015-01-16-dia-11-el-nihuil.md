@@ -1,6 +1,7 @@
 ---
 title: Día 11, El Nihuil
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**              | Valle Grande, 7:00hs |

@@ -1,6 +1,7 @@
 ---
 title: Día 17, Buta Ranquil
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Ranquil Norte, 6:40hs |

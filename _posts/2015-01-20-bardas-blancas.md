@@ -1,6 +1,7 @@
 ---
 title: Día 15, Bardas Blancas
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Malargüe, 6:40hs |

@@ -1,6 +1,7 @@
 ---
 title: Día 22, Villa Pehuenia
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**             | Las Lajas, 5:00hs |

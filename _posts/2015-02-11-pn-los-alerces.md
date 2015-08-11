@@ -1,6 +1,7 @@
 ---
 title: Días 37 al 39, Parque Nacional Los Alerces
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**             | Antes de Villa Lago Rivadavia, 10hs |

@@ -1,6 +1,7 @@
 ---
 title: Día 41, Río Putrachoique
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**             | Mojón 1744 Rn40, 10:00hs |

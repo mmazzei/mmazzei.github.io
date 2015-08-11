@@ -1,6 +1,7 @@
 ---
 title: Día 8, San Rafael
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Bowen, 7:00hs |

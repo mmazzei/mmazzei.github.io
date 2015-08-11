@@ -1,6 +1,7 @@
 ---
 title: Día 3, General Villegas
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**              | General Pinto, 7:00hs |

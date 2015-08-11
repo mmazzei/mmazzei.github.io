@@ -1,6 +1,7 @@
 ---
 title: Días 9 y 10, Valle Grande
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | San Rafel |

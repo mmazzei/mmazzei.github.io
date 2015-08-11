@@ -1,6 +1,7 @@
 ---
 title: Día 1, Laplacette
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**              | Pergamino, 7:00hs |

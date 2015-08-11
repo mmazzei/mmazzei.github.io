@@ -1,6 +1,7 @@
 ---
 title: Día 16, Ranquil Norte
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Bardas Blancas, 6:40hs |

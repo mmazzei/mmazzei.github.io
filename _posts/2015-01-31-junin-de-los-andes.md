@@ -1,6 +1,7 @@
 ---
 title: Día 26, Junín de Los Andes
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio** | Aluminé, 8:30hs |

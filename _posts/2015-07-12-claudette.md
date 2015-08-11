@@ -1,6 +1,7 @@
 ---
 title: Claudette
 layout: post
+tags: cuentos
 ---
 
 ### Notas preliminares

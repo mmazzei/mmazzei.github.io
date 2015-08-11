@@ -1,6 +1,7 @@
 ---
 title: Día 2, General Pinto
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**              | Laplacette, 7:00hs |

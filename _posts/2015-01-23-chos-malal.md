@@ -1,6 +1,7 @@
 ---
 title: Días 18 y 19, Chos Malal
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**      | Buta Ranquil, 7:00hs |

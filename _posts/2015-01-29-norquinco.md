@@ -1,6 +1,7 @@
 ---
 title: Día 24, Ñorquinco
 layout: post
+tags: rn40 bitacora
 ---
 
 | **Inicio**             | Villa Pehuenia, 9:30hs |

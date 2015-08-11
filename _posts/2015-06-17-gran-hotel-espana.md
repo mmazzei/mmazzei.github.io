@@ -1,6 +1,7 @@
 ---
 title: Gran Hotel España
 layout: post
+tags: cuentos
 ---
 
 ### Notas preliminares
