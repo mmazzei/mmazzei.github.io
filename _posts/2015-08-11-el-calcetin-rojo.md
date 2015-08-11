@@ -8,6 +8,8 @@ tags: cuentos
 
 Este cuento fue escrito para resolver el ejercicio: ["El calcetín rojo"](http://www.literautas.com/es/blog/post-392/ejercicios-de-escritura-el-calcetin-rojo/).
 
+Si querés jugar un rato, me encantaría leer tu versión de la historia. Estuve leyendo en esa página, luego de escribir el cuento, y no dejó de sorprenderme la variedad de posibilidades que la imaginación de los participantes pudo elaborar para una consigna tan simple.
+
 ### El calcetín rojo
 
 Ya habían pasado diez minutos de las siete de la mañana. A esta hora debía estar terminando el desayuno: una banana, una naranja, un pan con miel y una taza de leche (de 330cc); para luego ponerse el buzo azul marino, peinarse -porque no había forma de evitar despeinarse al ponérselo-, agarrar la mochila y traspasar el umbral de la puerta a las siete y veinte.
