@@ -9,3 +9,5 @@ a.no-underline {text-decoration: none;}
 .entry tr { line-height: 1;}
 .entry td { padding: 8px 15px;}
 .entry tfoot { font-weight: bold; border-top-width: 2px; border-top-style: solid;}
+
+.entry img.formula { max-width: 100%; width: auto !important; border-radius: 0px;}
