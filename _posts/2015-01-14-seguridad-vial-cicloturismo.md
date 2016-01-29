@@ -1,7 +1,7 @@
 ---
 title: Seguridad vial en cicloturismo
 layout: post
-tags: rn40
+tags: rn40 varios
 ---
 
 ### ¿Qué es esto?

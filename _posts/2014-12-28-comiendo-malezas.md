@@ -1,7 +1,7 @@
 ---
 title: Comiendo malezas
 layout: post
-tags: rn40
+tags: rn40 varios
 ---
 
 Mientras me preparo para sobrevivir en la RN40, estoy aprendiendo a identificar algunas plantas comestibles que encontraré en el camino.

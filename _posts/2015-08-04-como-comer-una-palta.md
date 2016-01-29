@@ -1,6 +1,7 @@
 ---
 title: Cómo comer una palta
 layout: post
+tags: varios
 ---
 
 Escribo este tutorial debido a la inusitada cantidad de personas (dos) que me preguntó, durante el transcurso de los últimos días, cómo se come esta exótica y funcional fruta.

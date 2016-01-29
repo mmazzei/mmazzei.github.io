@@ -1,7 +1,7 @@
 ---
 title: Falta tanto y tan poco
 layout: post
-tags: rn40
+tags: rn40 reflexiones
 ---
 
 Son las 21hs y todavía el sol alumbra aquí. Miro mi sombra y se proyecta hacia atrás por más de 30m. Lejos, no recuerdo haber visto una tan larga, pienso que los edificios en Buenos Aires o los árboles de Pergamino lo impiden.

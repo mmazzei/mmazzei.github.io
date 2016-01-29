@@ -1,7 +1,7 @@
 ---
 title: Equipaje al salir
 layout: post
-tags: rn40
+tags: rn40 varios
 ---
 
 En este post pretendo listar todos los elementos que componen el equipaje con el que parto hacia el sur.

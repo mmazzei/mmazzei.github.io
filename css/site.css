@@ -11,3 +11,20 @@ a.no-underline {text-decoration: none;}
 .entry tfoot { font-weight: bold; border-top-width: 2px; border-top-style: solid;}
 
 .entry img.formula { max-width: 100%; width: auto !important; border-radius: 0px;}
+
+.archive .badge {
+	background-color: #777777;
+	padding: .2em .6em .3em;
+	font-size: 75%;
+	color: #fff;
+	border-radius: .25em;
+	display: inline;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.archive .badge.rn40 { background-color: #8fa0ff; }
+.archive .badge.cuentos { background-color: #d98e81;}
+.archive .badge.varios { background-color: #bfa5f0; }
+.archive .badge.reflexiones { background-color: #7fbc67; }
+.archive .badge.cartas { background-color: #84b86a; }
+.archive .badge.selected { text-decoration: underline; }

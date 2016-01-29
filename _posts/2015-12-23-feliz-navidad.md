@@ -1,6 +1,7 @@
 ---
 title: Feliz Navidad
 layout: post
+tags: cuentos
 ---
 
 En esta época uno debe siempre tratar de recordar los orígenes de estas fiestas, para mantener el espíritu de la tradición y poder transmitirlo a nuestros vástagos o a los vástagos de los demás. Por eso nunca hay que olvidar la emotiva historia del niñito Jesús escribiéndole una carta a Papá Noel, donde le pedía que le regale un unicornio amarillo para ir al cielo, porque su papá terrícola era carpintero, pobre, y no podía conseguirle uno. A lo que el viejo regordete y barbudo, tan gordo como cruel, le regaló un montón de otros animales inservibles y que no volaban por haberse portado mal durante el año: cabras, camellos, ovejas, vacas, en fin... que es todo eso que dió origen al pesebre.

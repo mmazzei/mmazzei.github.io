@@ -1,7 +1,7 @@
 ---
 title: Refugio de lona
 layout: post
-tags: rn40
+tags: rn40 varios
 ---
 
 Una de las primeras preguntas que hacen los demás cuando uno les cuenta que se va de viaje en bicicleta es: ¿llevás piloto?

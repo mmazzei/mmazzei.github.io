@@ -1,6 +1,7 @@
 ---
 title: El valor de las cosas
 layout: post
+tags: reflexiones
 ---
 
 Hace unos días volví de un paseo por la ciudad de Córdoba y el Valle de Calamuchita (saqué a pasear a la caminívora ¡qué recuerdos me trajo!). El objetivo del viaje era desenchufarme un poco, ya que venía medio cansado, no podía enfocarme en el trabajo, en los estudios (si, todavía), me sentía sin ganas de nada y la creatividad parecía haberme abandonado hacía un tiempo.

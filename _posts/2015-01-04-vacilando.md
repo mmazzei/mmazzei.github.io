@@ -1,7 +1,7 @@
 ---
 title: Vacilando
 layout: post
-tags: rn40
+tags: rn40 reflexiones
 ---
 
 ### Motivación
