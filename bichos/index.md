@@ -1,6 +1,6 @@
 ---
-title: Archivo
-layout: default
+title: Bichos y cosas
+layout: post
 ---
 
 Acá iré dejando fotos de bichos, plantas y cosas que vaya encontrando por ahí.
