@@ -35,7 +35,7 @@ Mosquito enorme, primer semana de diciembre de 2015:
 
 [![](03_mosquito_enorme_thumb.jpg)](03_mosquito_enorme.jpg)
 
-Ni idea del nombre de esto, ni si chupa sangre, última semana de enero de 2016:
+Ni idea del nombre de esto, ni si chupa sangre. Para referencia, cada cuadradito de la grilla tiene 1mm de lado. Última semana de enero de 2016:
 
 [![](04_noseque_abominable_thumb.jpg)](04_noseque_abominable.jpg)
 
