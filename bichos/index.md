@@ -28,6 +28,10 @@ En todos los casos puede verse una versión en mayor tamaño de la imagen si se 
 
 [![](02_polilla_blanca_thumb.jpg)](02_polilla_blanca.jpg)
 
+[![](14_polilla_enorme_thumb.jpg)](14_polilla_enorme.jpg)
+
+[![](15_polilla_espacial_thumb.jpg)](15_polilla_espacial.jpg)
+
 
 ## Cosas que parecen mosquitos y son grandes, feos o ambos:
 
@@ -50,6 +54,10 @@ Araña a la que aquí llamamos "araña pollito". Suele encontrarse debajo de cor
 
 [![](06_arania_grandota_thumb.jpg)](06_arania_grandota.jpg)
 
+Acá encontré una dentro de mi casa, segunda semana de febrero de 2016:
+
+[![](16_arania_grandota_pared_thumb.jpg)](16_arania_grandota_pared.jpg)
+
 Araña que siempre anda corriendo por el jardín. Nunca he visto que hicieran telarañas. No es muy grande ni de aspecto amenazador. Las he agarrado con la mano sin problemas, no son agresivas. Última semana de diciembre de 2015:
 
 [![](07_arania_huevo_thumb.jpg)](07_arania_huevo.jpg)
@@ -62,9 +70,25 @@ Menos de dos centímetros en total en su dimensión más amplia. La he visto en 
 
 [![](09_arania_pequenia_thumb.jpg)](09_arania_pequenia.jpg)
 
+Una araña que hacía un movimiento rítmico hacia arriba y abajo con el abdomen, caminaba unos centímetros y repetía. Tamaño 1cm aprox. Primer semana de febrero de 2016:
+
+[![](11_arania_bailarina_thumb.jpg)](11_arania_bailarina.jpg)
+
 
 ## Grillos, langostas y cosas que se le parecen
 
 Estas langostas son las que plagaron el norte del país en enero de 2016. Aquí un grupo de ellas cerca de mi casa. Primer semana de enero de 2016:
 
 [![](10_langostas_negras_thumb.jpg)](10_langostas_negras.jpg)
+
+Misma especie de langostas, primer semana de enero de 2016, ahora en estado adulto:
+
+[![](12_langostas_verdes_thumb.jpg)](12_langostas_verdes.jpg)
+
+
+## Varios bichos
+
+A estos insectos los denominamos genéricamente vaquitas. Hay amarillas con lunares negros, negras con lunares de colores, blancas con lunares, verdes con lunares, rojas con lunares. También creo que hay sin lunares. Primer semana de febrero de 2016:
+
+[![](13_vaquitas_thumb.jpg)](13_vaquitas.jpg)
+
