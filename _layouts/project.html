@@ -1,0 +1,48 @@
+{% include html-head.html %}
+{% include authorDef.html %}
+
+
+<body class="project {{page.project.bodyClass}}">
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+
+    <div class=".u-cf">&nbsp;</div>
+
+    <div class="row">
+      <div class="two columns">&nbsp;</div>
+      <div class="four columns">
+        <img src="{{page.project.logo}}"/>
+      </div>
+      <div class="four columns">
+        <h1><a href="{{page.project.storeUrl}}/" class="no-underline">{{page.project.name}}</a></h1>
+        <h4>Current version: {{page.project.version}}</h4>
+      </div>
+      <div class="two columns">&nbsp;</div>
+    </div>
+    <div class="row">
+      <div class="two columns">&nbsp;</div>
+      <div class="eight columns comments">
+        <h5>{{page.project.comments}}</h5>
+      </div>
+      <div class="two columns">&nbsp;</div>
+    </div>
+    <hr>
+    <div class="row project content">
+      <div class="two columns">&nbsp;</div>
+        <div class="eight columns">
+          <div class="entry">{{ content }}</div>
+          <div style="text-align:right">
+            <a href="{{site.base_url}}/about">{{author.name}}</a> - <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time>
+          </div>
+        </div>
+      <div class="two columns">&nbsp;</div>
+    </div>
+
+    {% include footer.html %}
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
