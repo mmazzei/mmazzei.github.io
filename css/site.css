@@ -28,3 +28,29 @@ a.no-underline {text-decoration: none;}
 .archive .badge.reflexiones { background-color: #7fbc67; }
 .archive .badge.cartas { background-color: #84b86a; }
 .archive .badge.selected { text-decoration: underline; }
+
+.project img.help {
+    max-width: 50% !important;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.project img.helpSideToSide {
+    max-width: 40% !important;
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-block;
+}
+
+.project.cronito {
+    background-color: #36404A;
+    color: #AACAE9;
+ }
+
+.project.cronito code { color: #222; }
+.project.cronito p { font-size: 1.2em }
+.project.cronito .comments h5 {
+    font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem;
+    font-style: italic;
+}
