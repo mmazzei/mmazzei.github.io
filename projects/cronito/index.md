@@ -11,10 +11,9 @@ project:
         <p>Cronito is an app made to help you create timelines. You can get a timeline for your school project, for your childs growth, for your car maintenance, for anything you want.</p>
         <p>At least that was the idea I had in mind while working on the app!</p>
         <p>This is the support page, hope you get the help you need from there.</p>
+        <a href="index_es.html">En ESPAÑOL, por favor.</a>
     bodyClass : cronito
 ---
-
-
 
 * TOC
 {:toc}

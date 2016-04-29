@@ -50,7 +50,10 @@ a.no-underline {text-decoration: none;}
     color: #AACAE9;
  }
 
-.project.cronito code { color: #222; }
+.project.cronito code {
+    color: #222;
+    max-width: 100%;
+}
 .project.cronito p { font-size: 1.2em }
 .project.cronito .comments h5 {
     font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem;
