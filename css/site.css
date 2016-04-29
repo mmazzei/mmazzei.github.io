@@ -29,6 +29,8 @@ a.no-underline {text-decoration: none;}
 .archive .badge.cartas { background-color: #84b86a; }
 .archive .badge.selected { text-decoration: underline; }
 
+.project img { max-width: 100% }
+
 .project img.help {
     max-width: 50% !important;
     margin-right: auto;
