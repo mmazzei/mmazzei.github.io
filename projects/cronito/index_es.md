@@ -11,8 +11,8 @@ project:
         <p>Cronito es una aplicación heecha con el objetivo de ayudarte a crear líneas del tiempo. Puedes obtener líneas de tiempo para tu proyecto escolar, el desarrollo de tus hijos, el mantenimiento de tu coche, ¡lo que sea!</p>
         <p>Al menos esa es la idea que tenía en mente cuando lo desarrollé...</p>
         <p>Espero que este sitio te brinde la ayuda que necesitas.</p>
-        <a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
-        <a href="index.html">In ENGLISH, please.</a>
+        <p><a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
+        <p><a href="index.html">In ENGLISH, please.</a></p>
     bodyClass : cronito
 ---
 

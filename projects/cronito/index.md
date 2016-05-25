@@ -11,8 +11,8 @@ project:
         <p>Cronito is an app made to help you create timelines. You can get a timeline for your school project, for your childs growth, for your car maintenance, for anything you want.</p>
         <p>At least that was the idea I had in mind while working on the app!</p>
         <p>This is the support page, hope you get the help you need from there.</p>
-        <a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
-        <a href="index_es.html">En ESPAÑOL, por favor.</a>
+        <p><a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
+        <p><a href="index_es.html">En ESPAÑOL, por favor.</a></p>
     bodyClass : cronito
 ---
 
