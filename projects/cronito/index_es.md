@@ -157,6 +157,8 @@ Si lo tocas, podrás elegir algunos eventos para compartir o borrar.
 
 Luego sólo resta tocar donde dice "Compartir" para elegir el medio y enviarlo.
 
+Nota: Al compartir se utiliza una versión reducida de las imágenes de los eventos. Si deseas utilizar una versión de mayor calidad, puedes configurarlo desde las preferencias de la aplicación. Aunque es recomendable utilizarlo tal cual está.
+
 
 ### Importar desde fotos
 

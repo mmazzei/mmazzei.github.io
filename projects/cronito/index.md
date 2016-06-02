@@ -150,6 +150,7 @@ If you touch it, will be able to select some events by tapping, for sharing or d
 
 Then, you just will need to touch "Share" (at the screen bottom) to select between all of the supported sharing options.
 
+Note: A reduced version of the events images is used when sharing. You can use the full quality images on sharing by changing the ap settings. However it's not recommended to change that.
 
 ### Import from Photos
 
