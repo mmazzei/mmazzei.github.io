@@ -5,7 +5,7 @@ project:
     name     : Cronito
     logo     : /projects/cronito/logo.png
     storeUrl : http://itunes.apple.com/ar/app/cronito/id1110080435?mt=8
-    version  : v1.0
+    version  : v1.2
     comments : |
         <p>Hi there! This is Cronito.</p>
         <p>Cronito is an app made to help you create timelines. You can get a timeline for your school project, for your childs growth, for your car maintenance, for anything you want.</p>
@@ -137,6 +137,24 @@ In the Cronito timeline, you can pinch to zoom it in/out and get a different det
 The button at the top-left of the screen generates a PDF file that allows you to share the timeline or to print it.
 
 PRO tip: if you are seeing a yearly timeline, the PDF will have a yearly timeline. If you zoom in the Cronito timeline until get a monthly detail, the PDF will have a monthly timeline. That's because I didn't want to add more buttons in the UI, sorry.
+
+
+### Share my events
+
+In the app navigator you can see a small button like this, in the top-right corner:
+
+![](shareButton.png){:.help}
+
+If you touch it, will be able to select some events by tapping, for sharing or deleting.
+
+Then, you just will need to touch "Share" (at the screen bottom) to select between all of the supported sharing options.
+
+
+### Import from Photos
+
+You can automatically create events from your photos. Just need to choose "Import from Photos" from the options shown when tapped the "+" button.
+
+It will create a milestone for each picture you select from your gallery, setting the date to the same of the picture, and the name to "Imported milestone"; however you can tap the row to rename it.
 
 
 # I have more questions

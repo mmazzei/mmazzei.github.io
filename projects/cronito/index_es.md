@@ -5,7 +5,7 @@ project:
     name     : Cronito
     logo     : /projects/cronito/logo.png
     storeUrl : http://itunes.apple.com/ar/app/cronito/id1110080435?mt=8
-    version  : v1.0
+    version  : v1.2
     comments : |
         <p>¡Hola! Este es el sitio de Cronito.</p>
         <p>Cronito es una aplicación heecha con el objetivo de ayudarte a crear líneas del tiempo. Puedes obtener líneas de tiempo para tu proyecto escolar, el desarrollo de tus hijos, el mantenimiento de tu coche, ¡lo que sea!</p>
@@ -144,6 +144,24 @@ El botoncito arriba a la derecha de la pantalla genera un archivo PDF que sirve 
 
 
 Pista: si estás viendo una línea del tiempo anual, el PDF será una línea del tiempo anual. Si la aumentas un poco hasta ver los meses, el PDF será una línea del tiempo mensual, más detallada. Eso es porque no quería agregar más botones a la interfaz, disculpas.
+
+
+### Compartir mis eventos
+
+En el navegador de la applicación puede verse un pequeño botoncito arriba a la derecha:
+
+![](shareButton.png){:.help}
+
+Si lo tocas, podrás elegir algunos eventos para compartir o borrar.
+
+Luego sólo resta tocar donde dice "Compartir" para elegir el medio y enviarlo.
+
+
+### Importar desde fotos
+
+También puedes crear eventos automáticamente desde tus fotos. Para ello, tienes que seleccionar la opción "Importar desde Fotos" al tocar el botón "+" para crear eventos.
+
+Se creará un hito por cada foto que selecciones de la galería, con la fecha en que se tomó la foto y el nombre "Hito importado"; pero puedes tocar la fila para cambiar el nombre.
 
 
 # ¡Tengo más preguntas!
