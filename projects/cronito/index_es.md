@@ -16,6 +16,7 @@ project:
     bodyClass : cronito
 ---
 
+{% include authorDef.html %}
 
 * TOC
 {:toc}
