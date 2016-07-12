@@ -60,8 +60,8 @@ a.no-underline {text-decoration: none;}
     font-style: italic;
 }
 
-.project.netchecker p { font-size: 1.2em }
-.project.netchecker .comments h5 {
+.project.restito p { font-size: 1.2em }
+.project.restito .comments h5 {
     font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem;
     font-style: italic;
 }

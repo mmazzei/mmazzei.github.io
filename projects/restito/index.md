@@ -1,19 +1,19 @@
 ---
-title: NetChecker
+title: RESTito
 layout: project
 project:
-    name     : NetChecker
-    logo     : /projects/netchecker/logo.png
+    name     : RESTito
+    logo     : /projects/restito/logo.png
     storeUrl : http://itunes.apple.com/ar/app/cronito/id1110080435?mt=8
     version  : v1.0
     comments : |
-        <p>NetChecker is a lightweight app to help you execute any kind of HTTP Request.</p>
+        <p>RESTito is a lightweight app to help you execute any kind of HTTP Request.</p>
         <p>You can use it to test your REST APIs, to detect problems in your app or your network.</p>
         <p>This is the support page, hope you get the help you need from here.</p>
         <!-- TODO - Colocar el enlace correcto -->
         <p><a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
         <p><a href="index_es.html">En ESPAÑOL, por favor.</a></p>
-    bodyClass : netchecker
+    bodyClass : restito
 ---
 {% include authorDef.html %}
 
