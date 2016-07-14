@@ -4,14 +4,13 @@ layout: project
 project:
     name     : RESTito
     logo     : /projects/restito/logo.png
-    storeUrl : http://itunes.apple.com/ar/app/cronito/id1110080435?mt=8
+    storeUrl : https://itunes.apple.com/es/app/restito/id1133730938?mt=8
     version  : v1.0
     comments : |
         <p>RESTito es una pequeña app que te ayuda a ejecutar cualquier tipo de Request HTTP.</p>
         <p>Puedes utilizarla para probar tus APIs REST, detectar problemas en tu app o la red.</p>
         <p>Este es el sitio de soporte al usuario, espero que puedas obtener desde aquí toda la ayuda que necesites.</p>
-        <!-- TODO - Colocar el enlace correcto -->
-        <p><a href="https://geo.itunes.apple.com/us/app/cronito/id1110080435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
+        <p><a href="https://itunes.apple.com/es/app/restito/id1133730938?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
         <p><a href="index.html">In ENGLISH, please.</a></p>
     bodyClass : restito
 ---
