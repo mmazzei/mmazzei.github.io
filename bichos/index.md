@@ -15,14 +15,21 @@ En todos los casos puede verse una versión en mayor tamaño de la imagen si se 
 
 ¡Si alguien conoce el nombre científico de alguno, me encantaría que me lo envíe por email!
 
+* TOC
+{:toc}
+
 # Casa y alrededores
 
-## Avispas construyendo su panal, primer semana de febrero de 2016:
+## Avispas
+
+Avispas construyendo su panal, primer semana de febrero de 2016:
 
 [![](00_avispas_thumb.jpg)](00_avispas.jpg)
 
 
-## Polillas que no son grises y feas, segunda quincena de enero de 2016:
+## Polillas que no son grises y feas.
+
+Segunda quincena de enero de 2016:
 
 [![](01_polilla_amarilla_thumb.jpg)](01_polilla_amarilla.jpg)
 
@@ -32,6 +39,13 @@ En todos los casos puede verse una versión en mayor tamaño de la imagen si se 
 
 [![](15_polilla_espacial_thumb.jpg)](15_polilla_espacial.jpg)
 
+[![](19_polilla_mas_enorme_thumb.jpg)](19_polilla_mas_enorme.jpg)
+
+[![](20_polilla_mas_enorme_arriba_thumb.jpg)](20_polilla_mas_enorme_arriba.jpg)
+
+[![](22_polilla_pelos_thumb.jpg)](22_polilla_pelos.jpg)
+
+[![](25_polilla_avion_thumb.jpg)](25_polilla_avion.jpg)
 
 ## Cosas que parecen mosquitos y son grandes, feos o ambos:
 
@@ -47,6 +61,9 @@ Mosquito enorme, aunque de aspecto inocente, última semana de enero de 2016:
 
 [![](05_mosquito_gigante_thumb.jpg)](05_mosquito_gigante.jpg)
 
+Apareció en la casa durante la segunda semana de marzo de 2016, no parece un mosquito y no sé qué tiene atrás:
+
+[![](21_coso_con_cosa_thumb.jpg)](21_coso_con_cosa.jpg)
 
 ## Arañas:
 
@@ -58,7 +75,7 @@ Acá encontré una dentro de mi casa, segunda semana de febrero de 2016:
 
 [![](16_arania_grandota_pared_thumb.jpg)](16_arania_grandota_pared.jpg)
 
-Araña que siempre anda corriendo por el jardín. Nunca he visto que hicieran telarañas. No es muy grande ni de aspecto amenazador. Las he agarrado con la mano sin problemas, no son agresivas. Última semana de diciembre de 2015:
+Araña que siempre anda corriendo por el jardín. Nunca he visto que hicieran telarañas. No es muy grande ni de aspecto amenazador. No trepan paredes. Las he agarrado con la mano sin problemas, no son agresivas. Última semana de diciembre de 2015:
 
 [![](07_arania_huevo_thumb.jpg)](07_arania_huevo.jpg)
 
@@ -74,6 +91,16 @@ Una araña que hacía un movimiento rítmico hacia arriba y abajo con el abdomen
 
 [![](11_arania_bailarina_thumb.jpg)](11_arania_bailarina.jpg)
 
+Una que se esconde muy bien entre las flores...
+[![](23_arania_escondida_flor_thumb.jpg)](23_arania_escondida_flor.jpg)
+
+...y hojas. Ambas durante la primer semana de abril de 2016:
+
+[![](24_arania_escondida_hoja_thumb.jpg)](24_arania_escondida_hoja.jpg)
+
+Esta arañita es muy extraña, abdomen y cabeza son una misma cosa. El cuerpo medía alrededor de 5mm. Tercer semana de junio de 2016:
+
+[![](26_arania_redonda_thumb.jpg)](26_arania_redonda.jpg)
 
 ## Grillos, langostas y cosas que se le parecen
 
@@ -85,6 +112,24 @@ Misma especie de langostas, primer semana de enero de 2016, ahora en estado adul
 
 [![](12_langostas_verdes_thumb.jpg)](12_langostas_verdes.jpg)
 
+Langosta que comió nuestros higos camuflada de hoja de sauce, segunda semana de febrero de 2016:
+
+[![](17_langostas_camuflaje_sauce_thumb.jpg)](17_langostas_camuflaje_sauce.jpg)
+
+## Orugas
+
+Así es cuando las orugas comienzan a salir de sus huevos, que son colocados en el dorso de las hojas (segunda semana de diciembre de 2015):
+
+[![](27_oruga_joven_thumb.jpg)](27_oruga_joven.jpg)
+
+Esta eligió un lugar para metamorfosear. No hizo capullo, simplemente quedó mirando la pared en un punto fijo durante días (segunda semana de diciembre de 2015):
+
+[![](28_oruga_capullo1_thumb.jpg)](28_oruga_capullo1.jpg)
+
+
+Si no me equivoco, esta es la misma. Parecería que hubiera estado agarrada por la boca, y se dejó caer, con lo que las patitas quedaron apuntando hacia afuera (segunda semana de diciembre de 2015):
+
+[![](29_oruga_capullo2_thumb.jpg)](29_oruga_capullo2.jpg)
 
 ## Varios bichos
 
@@ -92,3 +137,6 @@ A estos insectos los denominamos genéricamente vaquitas. Hay amarillas con luna
 
 [![](13_vaquitas_thumb.jpg)](13_vaquitas.jpg)
 
+Un bicho con un lindo tatuaje tribal. Segunda semana de febrero de 2016:
+
+[![](18_bicho_tribal_thumb.jpg)](18_bicho_tribal.jpg)
