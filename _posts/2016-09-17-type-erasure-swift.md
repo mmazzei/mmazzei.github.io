@@ -145,7 +145,7 @@ Más allá de por qué demonios alguien querría un `array` de delegados, intere
 
 ## ¿Pero por qué?
 
-Volvamos al origen, cuando todavía eramos inocentes y tratábamos de dibujar cosas en la pantalla (es el "Hola mundo" de la programación orientada a objetos)... Los viejos tiempos, varchars y punteros retozando en praderas de RAM.
+Volvamos al origen, cuando todavía éramos inocentes y tratábamos de dibujar cosas en la pantalla (es el "Hola mundo" de la programación orientada a objetos)... Los viejos tiempos, varchars y punteros retozando en praderas de RAM.
 
 Podíamos haber escrito el siguiente código:
 
@@ -190,7 +190,7 @@ Y la función que teníamos de antes, como sólo necesitaba acceder a los vérti
     }
 
 
-Justamente esta era la gracia de los `protocols`: declarar un contrato suficiente para aplicar cierto algoritmo que escribimos en algun otro lugar. Sabemos que cualquier tipo que admita el protocolo de polígono tiene un arreglo de vértices. Es información concreta.
+Justamente esta era la gracia de los `protocols`: declarar un contrato suficiente para aplicar cierto algoritmo que escribimos en algún otro lugar. Sabemos que cualquier tipo que admita el protocolo de polígono tiene un arreglo de vértices. Es información concreta.
 
 
     let a: [Polygon] // <- OK
@@ -204,7 +204,7 @@ Justamente esta era la gracia de los `protocols`: declarar un contrato suficient
 
 En cambio, un `protocol` con `associatedtype` no es un contrato sino una [plantilla de contrato](http://www.milejemplos.com/contratos/ejemplo-de-contrato-de-compraventa-privado.html). Sabemos qué forma tiene pero no de qué se trata concretamente.
 
-Por ejemplo, podríamos declarar el siguiente `protocol`, que asegura que, quien lo implementa, come algun tipo de cosas:
+Por ejemplo, podríamos declarar el siguiente `protocol`, que asegura que, quien lo implementa, come algún tipo de cosas:
 
 
     protocol Eater {
@@ -283,11 +283,11 @@ Pero no algo como:
     }
 
 
-Ni siquiera podríamos hacer esto, porque no sería posible asegurar que los elementos de la primer colección sean carnívoros y los de la segunda, hervíboros:
+Ni siquiera podríamos hacer esto, porque no sería posible asegurar que los elementos de la primer colección sean carnívoros y los de la segunda, herbívoros:
 
 
         var carnivores = [Eater]() // <- ERROR
-        var hervibores = [Eater]() // <- ERROR
+        var herbivores = [Eater]() // <- ERROR
 
 
 Y justamente nos metimos en este mundo de generics y pesadillas para evitar casteos. Y el switch es un if encubierto. No quería decirlo, pero sólo aguanté hasta este párrafo.
@@ -452,11 +452,11 @@ La implementación de la granja:
 
     class Farm {
         var carnivores = [AnyEater<Beef>]()
-        var hervibores = [AnyEater<Lettuce>]()
+        var herbivores = [AnyEater<Lettuce>]()
 
         func feedBeasts() {
             carnivores.forEach { $0.eat( Beef() ) }
-            hervibores.forEach { $0.eat( Lettuce() ) }
+            herbivores.forEach { $0.eat( Lettuce() ) }
         }
     }
 
@@ -467,7 +467,7 @@ La implementación de la granja:
         AnyEater(with: Dog()),
         AnyEater(with: Cat())
     ]
-    myFarm.hervibores = [
+    myFarm.herbivores = [
         AnyEater(with: Rabbit())
     ]
 
