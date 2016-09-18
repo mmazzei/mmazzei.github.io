@@ -140,10 +140,8 @@ Otro ejemplo donde ocurriría algo así:
 
 Más allá de por qué demonios alguien querría un `array` de delegados, interesa el entender la causa del error. Y como en esta sección "¿Por qué?" dije mucho sin explicar nada, pasemos a la siguiente sección "¿Pero por qué?".
 
-<div class="figure">
-  <p><img src="http://placekitten.com/g/200/200" alt="St. Tropez"></p>
-  <p>Si para esta altura no hubiese una imagen, nadie continuaría.</p>
-</div>
+{% include figure.html figure="http://placekitten.com/g/200/200" caption="Si para esta altura no hubiese una imagen, nadie continuaría." %}
+
 
 ## ¿Pero por qué?
 
@@ -300,10 +298,7 @@ Por eso no tendría sentido que compile esa línea. Si es que alguna vez te has 
  - lo hace por tu bien: cada vez que casteas tenés una oportunidad menos de programar un sistema que dirija cohetes a la Luna.
 
 
-<div class="figure">
-  <p><img src="http://placekitten.com/g/230/230" alt="St. Tropez"></p>
-  <p>Internet</p>
-</div>
+{% include figure.html figure="http://placekitten.com/g/230/230" caption="Internet" %}
 
 
 ## ¿Entonces?
@@ -366,6 +361,7 @@ Si sólo puede ser utilizado como "generic constraint", hagamos eso...
 No te lo esperabas ¿no? Salió de la galera cual conejos y [palomas](https://youtu.be/mWGEvDbHcDo).
 
 Aclaro que esto no se me ocurrió a mi, no me hago cargo. Al final de esta página podés encontrar enlaces con referencias a otras personas a las que tampoco se les ocurrió, pero tiran enlaces con referencias a otras personas y así.
+
 
 ## ¿Cómo?
 
@@ -475,6 +471,7 @@ La implementación de la granja:
         AnyEater(with: Rabbit())
     ]
 
+
 ## Conclusiones
 
 Costó, pero eliminamos el `if`.
@@ -520,10 +517,20 @@ Lo más difícil no siempre es elegir nombres. A veces cuesta también inventar 
 
 Intenté durante casi diez segundos pensar ejemplos originales, y pensé que el de la granja era bueno hasta que lo ví hace un rato aplicado en LA MISMA situación [acá](http://robnapier.net/erasure). No sé si casualidad o será que ya lo había leído antes.
 
-<div class="figure">
-  <p><img src="http://placekitten.com/g/250/200" alt="St. Tropez"></p>
-  <p>struct Cat</p>
-</div>
+{% include figure.html figure="http://placekitten.com/g/250/250" caption="struct Cat" %}
+
+
+# Comentarios
+
+¿Algo de lo que escribí está mal?
+¿Algo de lo que escribí puede mejorarse?
+¿Se te ocurren mejores ejemplos?
+¿Resolviste algo de lo que mencioné en "Conclusiones"?
+¿Tenés ganas de insultar a alguien?
+¿No te anda el "CTRL+C"?
+¿Sentís que estás sólo en el universo?
+
+Podés escribir un comentario y presionar el botón invisible de "Enviar comentario" aquí abajo, o buscar en el sitio, que en algún lugar están mis datos de contacto. No me acuerdo bien dónde.
 
 
 # Enlaces
