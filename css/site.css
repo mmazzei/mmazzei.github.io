@@ -66,6 +66,18 @@ a.no-underline {text-decoration: none;}
     font-style: italic;
 }
 
+.project.quinielizer {
+    font-family: "Baskerville";
+    background-color: #EBDF68;
+    color: #202566;
+}
+.project.quinielizer .content {
+    font-size: 3rem; line-height: 1.5;  letter-spacing: -.05rem;
+ }
+.project.quinielizer a {
+    color: rgb(7, 39, 130);
+}
+
 
 
 div.figure {
