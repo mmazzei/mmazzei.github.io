@@ -4,13 +4,13 @@ layout: project
 project:
     name     : Quinielizer
     logo     : /projects/quinielizer/logo.png
-    storeUrl : #TODO-STORE-URL
+    storeUrl : https://itunes.apple.com/us/app/quinielizer/id1192413435?mt=8
     version  : v1.0
     comments : |
         <p>Quinielizer is a simple app that helps you to write "encoded" numbers.</p>
         <p>This can be helpful in some situations when you need to give a number to another person without other people notice it. Phone numbers, for example.</p>
         <p>What this does is just transform the number in it "Dream meaning" as gamblers do in Argentina. It's based on the info provided <a href="http://www.quini-6-resultados.com.ar/significado-suenos.aspx">here</a>.</p>
-        <p><a href="#">TODO-APP-STORE-LOGO</a></p>
+        <p><a href="https://itunes.apple.com/us/app/quinielizer/id1192413435?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a></p>
         <p><a href="index_es.html">In SPANISH, please.</a></p>
     bodyClass : quinielizer
 ---
