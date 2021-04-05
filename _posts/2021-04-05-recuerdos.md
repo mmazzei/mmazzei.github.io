@@ -15,19 +15,19 @@ Los recuerdos caen como agua torrencial durante una despedida, como queriendo ll
 En eso pensaba últimamente, terminando con la lectura de "Don Segundo Sombra", porque me quedó dando vueltas este fragmento, donde describe la despedida entre el protagonista y su padrino:
 
 <div class="quote">
-Lo vi alejarse al tranco. Mis ojos se dormían en lo familiar de sus actitudes. Un rato ignoré si veía o evocaba. Sabía cómo levantaría el rebenque, abriendo un poco la mano, y cómo echaría el cuerpo, iniciando el envión del galope. Así fue. El trote de transición le sacudió el cuerpo como una alegría. Y fue el compás conocido de los cascos trillando distancia: galopar es reducir lejanía. Llegar no es, para un resero, más que un pretexto de partir.
+<p>Lo vi alejarse al tranco. Mis ojos se dormían en lo familiar de sus actitudes. Un rato ignoré si veía o evocaba. Sabía cómo levantaría el rebenque, abriendo un poco la mano, y cómo echaría el cuerpo, iniciando el envión del galope. Así fue. El trote de transición le sacudió el cuerpo como una alegría. Y fue el compás conocido de los cascos trillando distancia: galopar es reducir lejanía. Llegar no es, para un resero, más que un pretexto de partir.</p>
 
-Por el camino, que fingía un arroyo de tierra, caballo y jinete repecharon la loma, difundidos en el cardal. Un momento la silueta doble se perfiló nítida sobre el cielo, sesgado por un verdoso rayo de atardecer. Aquello que se alejaba era más una idea que un hombre. Y bruscamente desapareció, quedando mi meditación separada de su motivo.
+<p>Por el camino, que fingía un arroyo de tierra, caballo y jinete repecharon la loma, difundidos en el cardal. Un momento la silueta doble se perfiló nítida sobre el cielo, sesgado por un verdoso rayo de atardecer. Aquello que se alejaba era más una idea que un hombre. Y bruscamente desapareció, quedando mi meditación separada de su motivo.</p>
 
-Me dije: "ahora va a bajar por el lado de la cañada. Recién cuando cruce el río, lo veré asomar en el segundo repecho." El anochecer vencía lento, seguro, como quien no está turbado por un resultado dudoso. Unas nubes tenues hacían largas estrías de luz.
+<p>Me dije: "ahora va a bajar por el lado de la cañada. Recién cuando cruce el río, lo veré asomar en el segundo repecho." El anochecer vencía lento, seguro, como quien no está turbado por un resultado dudoso. Unas nubes tenues hacían largas estrías de luz.</p>
 
-La silueta reducida de mi padrino apareció en la lomada. Pensé que era muy pronto. Sin embargo era él, lo sentía porque a pesar de la distancia no estaba lejos. Mi vista se ceñía enérgicamente sobre aquel pequeño movimiento en la pampa somnolente. Ya iba a llegar a lo alto del camino y desaparecer. Se fue reduciendo como si lo cortaran de abajo en repetidos tajos. Sobre el punto negro del chambergo, mis ojos se aferraron con afán de hacer perdurar aquel rezago. Inútil, algo nublaba mi vista, tal vez el esfuerzo, y una luz llena de pequeñas vibraciones se extendió sobre la llanura. No sé qué extraña sugestión me proponía la presencia ilimitada de un alma.
+<p>La silueta reducida de mi padrino apareció en la lomada. Pensé que era muy pronto. Sin embargo era él, lo sentía porque a pesar de la distancia no estaba lejos. Mi vista se ceñía enérgicamente sobre aquel pequeño movimiento en la pampa somnolente. Ya iba a llegar a lo alto del camino y desaparecer. Se fue reduciendo como si lo cortaran de abajo en repetidos tajos. Sobre el punto negro del chambergo, mis ojos se aferraron con afán de hacer perdurar aquel rezago. Inútil, algo nublaba mi vista, tal vez el esfuerzo, y una luz llena de pequeñas vibraciones se extendió sobre la llanura. No sé qué extraña sugestión me proponía la presencia ilimitada de un alma.</p>
 
-«Sombra», me repetí. Después pensé casi violentamente en mi padre adoptivo. ¿Rezar? ¿Dejar sencillamente fluir mi tristeza? No sé cuantas cosas se amontonaron en mi soledad. Pero eran cosas que un hombre jamás se confiesa.
+<p>«Sombra», me repetí. Después pensé casi violentamente en mi padre adoptivo. ¿Rezar? ¿Dejar sencillamente fluir mi tristeza? No sé cuantas cosas se amontonaron en mi soledad. Pero eran cosas que un hombre jamás se confiesa.</p>
 
-Centrando mi voluntad en la ejecución de los pequeños hechos, di vuelta mi caballo y, lentamente, me fui para las casas.
+<p>Centrando mi voluntad en la ejecución de los pequeños hechos, di vuelta mi caballo y, lentamente, me fui para las casas.</p>
 
-Me fui, como quien se desangra.
+<p>Me fui, como quien se desangra.</p>
 </div>
 
 El saludo ese gaucho, humano, donde uno trata de mantener hasta último momento el lazo que nos une en el mundo físico, el de las sensaciones -su olor, el asiento aún tibio donde se había sentado, el sonido de sus pasos alejándose, el punto visible a lo lejos- porque luego sólo quedaremos juntos en el universo paralelo donde coincidimos por un rato, es como un ritual por el que todos alguna vez pasaremos.
@@ -45,27 +45,27 @@ Es tratar de detener el tiempo un ratito más en el abrazo, odiando tener que ha
 Así, pensando en memorias, en despedidas, en personas, busqué en el baúl de los recuerdos ese que se va haciendo pesado con la acumulación, porque a veces nos cuesta aligerarlo un poco deshaciéndonos de algunos, y debemos arrastrarlo con un esfuerzo tan grande como la cantidad de historias que guarda, el de las marcas y cicatrices que delatan haber vivido, y encontré esto que escribí durante una despedida hace unos años:
 
 <div class="quote">
-Luego de despedirnos fui hasta la terminal 2 del aeropuerto, desde donde fotografié dos aviones despegar, creí que en alguno de esos ibas vos.
+<p>Luego de despedirnos fui hasta la terminal 2 del aeropuerto, desde donde fotografié dos aviones despegar, creí que en alguno de esos ibas vos.</p>
 
-Mientras esperaba el metro, para regresar al centro, vi de reojo un avión con los colores de Wizzair, entonces descubrí que estaba equivocado.
+<p>Mientras esperaba el metro, para regresar al centro, vi de reojo un avión con los colores de Wizzair, entonces descubrí que estaba equivocado.</p>
 
-Faltaban sólo 4' para que parta mi tren. Y a mis espaldas estabas vos, dentro de un avión, alejándote poco a poco hacia la ruta de aterrizaje desde la que, a cientos de kilómetros por hora, levantarías vuelo con tus ñandúes, nuestros mates juntos, caminar de las manos y los abrazos y besos en todas partes.
+<p>Faltaban sólo 4' para que parta mi tren. Y a mis espaldas estabas vos, dentro de un avión, alejándote poco a poco hacia la ruta de aterrizaje desde la que, a cientos de kilómetros por hora, levantarías vuelo con tus ñandúes, nuestros mates juntos, caminar de las manos y los abrazos y besos en todas partes.</p>
 
-Y me detuve ansioso a esperar ese momento: no podía irme sin antes verte elevándote, dirigir esa última mirada [...]
+<p>Y me detuve ansioso a esperar ese momento: no podía irme sin antes verte elevándote, dirigir esa última mirada [...]</p>
 
-Sólo dos minutos, el avión se ubicó en la recta desde la que sólo quedaba encender al máximo los motores para iniciar el despegue.
+<p>Sólo dos minutos, el avión se ubicó en la recta desde la que sólo quedaba encender al máximo los motores para iniciar el despegue.</p>
 
-Un minuto, avanzaba lentamente.
+<p>Un minuto, avanzaba lentamente.</p>
 
-Lentamente.
+<p>Lentamente.</p>
 
-Ahora más rápido.
+<p>Ahora más rápido.</p>
 
-Más.
+<p>Más.</p>
 
-Más.
+<p>Más.</p>
 
-Y en un segundo se aceleró mil veces, te pegaste contra el asiento, miraste por la ventana, y levantaste vuelo todo junto. Mientras yo me detenía, sacaba la cámara, corría hacia los molinetes, apuntaba y disparaba al mismo tiempo.
+<p>Y en un segundo se aceleró mil veces, te pegaste contra el asiento, miraste por la ventana, y levantaste vuelo todo junto. Mientras yo me detenía, sacaba la cámara, corría hacia los molinetes, apuntaba y disparaba al mismo tiempo.</p>
 </div>
 
 No era un adiós, pero a la fuerza uno aprende a tratar cada despedida como si lo fuera, no sabiendo nunca si se trata sólo de un hasta luego.
