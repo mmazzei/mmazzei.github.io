@@ -1,6 +1,7 @@
 a.no-underline {text-decoration: none;}
 .poem {text-align: center;}
 .poem .author {margin-left: 10em;}
+.quote {background-color: rgb(237, 237, 237);}
 .quote p {font-style: italic !important;}
 .footer, .footer a {
 	color: rgb(173,173,173);
