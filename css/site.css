@@ -14,6 +14,7 @@ a.no-underline {text-decoration: none;}
 
 .entry img.formula { max-width: 100%; width: auto !important; border-radius: 0px;}
 
+.notice {text-align: center; background-color: #EDEDED; padding: 10px; margin-bottom: 20px;}
 .archive .badge {
 	background-color: #777777;
 	padding: .2em .6em .3em;
@@ -30,6 +31,8 @@ a.no-underline {text-decoration: none;}
 .archive .badge.reflexiones { background-color: #7fbc67; }
 .archive .badge.cartas { background-color: #84b86a; }
 .archive .badge.selected { text-decoration: underline; }
+
+.imageGallery img { max-width: 24% }
 
 .project img { max-width: 100% }
 

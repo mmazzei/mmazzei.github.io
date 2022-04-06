@@ -6,5 +6,6 @@ layout: default
 
  * [Correo electrónico](mailto:{{author.email}})
  * [En Twitter]({{author.twitter}})
- * [Archivo](/archive)
+ * [Textos](/archive)
+ * [Dibujos](/dibujos)
  * [Bichos y cosas](/bichos)
