@@ -14,9 +14,6 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 
 # Objetos y cosas que veo
 
-<div class="subsection">
-</div>
-
 ## Calzado
 [![](objeto_zapatoViejo_thumb.jpeg)](objeto_zapatoViejo.jpeg)
 [![](objeto_zapato_thumb.jpeg)]()

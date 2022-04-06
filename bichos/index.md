@@ -1,6 +1,6 @@
 ---
 title: Bichos y cosas
-layout: post
+layout: imageGallery
 ---
 
 Acá iré dejando fotos de bichos, plantas y cosas que vaya encontrando por ahí.
@@ -32,19 +32,12 @@ Avispas construyendo su panal, primer semana de febrero de 2016:
 Segunda quincena de enero de 2016:
 
 [![](01_polilla_amarilla_thumb.jpg)](01_polilla_amarilla.jpg)
-
 [![](02_polilla_blanca_thumb.jpg)](02_polilla_blanca.jpg)
-
 [![](14_polilla_enorme_thumb.jpg)](14_polilla_enorme.jpg)
-
 [![](15_polilla_espacial_thumb.jpg)](15_polilla_espacial.jpg)
-
 [![](19_polilla_mas_enorme_thumb.jpg)](19_polilla_mas_enorme.jpg)
-
 [![](20_polilla_mas_enorme_arriba_thumb.jpg)](20_polilla_mas_enorme_arriba.jpg)
-
 [![](22_polilla_pelos_thumb.jpg)](22_polilla_pelos.jpg)
-
 [![](25_polilla_avion_thumb.jpg)](25_polilla_avion.jpg)
 
 ## Cosas que parecen mosquitos y son grandes, feos o ambos:
@@ -92,6 +85,7 @@ Una araña que hacía un movimiento rítmico hacia arriba y abajo con el abdomen
 [![](11_arania_bailarina_thumb.jpg)](11_arania_bailarina.jpg)
 
 Una que se esconde muy bien entre las flores...
+
 [![](23_arania_escondida_flor_thumb.jpg)](23_arania_escondida_flor.jpg)
 
 ...y hojas. Ambas durante la primer semana de abril de 2016:

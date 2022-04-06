@@ -33,6 +33,8 @@ a.no-underline {text-decoration: none;}
 .archive .badge.selected { text-decoration: underline; }
 
 .imageGallery img { max-width: 24% }
+.imageGallery h1 { font-size: 3.0rem; }
+.imageGallery h2 { font-size: 2rem; }
 
 .project img { max-width: 100% }
 
