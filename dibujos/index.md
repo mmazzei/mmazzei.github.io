@@ -19,11 +19,11 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 
 ## Calzado
 [![](objeto_zapatoViejo_thumb.jpeg)](objeto_zapatoViejo.jpeg)
-[![](objeto_zapato_thumb.jpeg)](objeto_zapato.jpeg)
+[![](objeto_zapato_thumb.jpeg)]()
 [![](objeto_zapatilla3_thumb.jpeg)](objeto_zapatilla3.jpeg)
-[![](objeto_zapatilla2_thumb.jpeg)](objeto_zapatilla2.jpeg)
+[![](objeto_zapatilla2_thumb.jpeg)]()
 [![](objeto_zapatilla_thumb.jpeg)](objeto_zapatilla.jpeg)
-[![](objeto_cajaYzapato_thumb.jpeg)](objeto_cajaYzapato.jpeg)
+[![](objeto_cajaYzapato_thumb.jpeg)]()
 <br>
 <hr/>
 <br>
@@ -31,7 +31,7 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 ## Mates
 [![](objeto_mateYbombilla_thumb.jpeg)](objeto_mateYbombilla.jpeg)
 [![](objeto_mates_thumb.jpeg)](objeto_mates.jpeg)
-[![](objeto_mate_thumb.jpeg)](objeto_mate.jpeg)
+[![](objeto_mate_thumb.jpeg)]()
 [![](objeto_varios_thumb.jpeg)](objeto_varios.jpeg)
 [![](objeto_kalimba2_thumb.jpeg)](objeto_kalimba2.jpeg)
 [![](objeto_kalimba_thumb.jpeg)](objeto_kalimba.jpeg)
@@ -60,7 +60,7 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 [![](objeto_lampara_thumb.jpeg)](objeto_lampara.jpeg)
 [![](objeto_jarra_thumb.jpeg)](objeto_jarra.jpeg)
 [![](objeto_frasco_thumb.jpeg)](objeto_frasco.jpeg)
-[![](objeto_bacha_thumb.jpeg)](objeto_bacha.jpeg)
+[![](objeto_bacha_thumb.jpeg)]()
 <br>
 <hr/>
 <br>
