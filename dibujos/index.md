@@ -6,7 +6,8 @@ layout: imageGallery
 Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, dibujos arruinados y otros inempeorables. Todo eso por aquí.
 
 <div class="notice">
-Las imágenes se muestran en un tamaño pequeño para que la página cargue más rápido. Haciendo click sobre cada una se ve con más detalle (para mejor o peor).
+<p>Las imágenes se muestran en un tamaño pequeño para que la página cargue más rápido. Haciendo click sobre cada una se ve con más detalle (para mejor o peor).</p>
+<p>Las que tienen borde rojo son las últimas que he subido.</p>
 </div>
 
 * TOC
@@ -58,6 +59,7 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 [![](objeto_jarra_thumb.jpeg)](objeto_jarra.jpeg)
 [![](objeto_frasco_thumb.jpeg)](objeto_frasco.jpeg)
 [![](objeto_bacha_thumb.jpeg)]()
+[![](objeto_guitarra_thumb.jpeg)](objeto_guitarra.jpeg){:.new}
 <br>
 <hr/>
 <br>
@@ -96,6 +98,12 @@ Las imágenes se muestran en un tamaño pequeño para que la página cargue más
 [![](paisaje_frasca3_thumb.jpeg)](paisaje_frasca3.jpeg)
 [![](paisaje_frasca2_thumb.jpeg)](paisaje_frasca2.jpeg)
 [![](paisaje_frasca1_thumb.jpeg)](paisaje_frasca1.jpeg)
+<br>
+<hr/>
+<br>
+
+## Otros
+[![](varios_gatoTosiendo_thumb.jpeg)](varios_gatoTosiendo.jpeg){:.new}
 <br>
 <hr/>
 <br>
