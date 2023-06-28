@@ -39,14 +39,21 @@ Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, 
 
 ## Naturaleza
 [![](objeto_tronco_thumb.jpeg)](objeto_tronco.jpeg)
-[![](objeto_pasionaria_thumb.jpeg)](objeto_pasionaria.jpeg)
-[![](objeto_dienteleon_thumb.jpeg)](objeto_dienteleon.jpeg)
 [![](objeto_caracol_thumb.jpeg)](objeto_caracol.jpeg)
 [![](objeto_calabaza_thumb.jpeg)](objeto_calabaza.jpeg)
+[![](objeto_pasionaria_thumb.jpeg)](objeto_pasionaria.jpeg)
+[![](objeto_dienteleon_thumb.jpeg)](objeto_dienteleon.jpeg)
 [![](planta_nolina_thumb.jpeg)](planta_nolina.jpeg)
 [![](planta_cactus_thumb.jpeg)](planta_cactus.jpeg)
 [![](planta_brote_thumb.jpeg)](planta_brote.jpeg)
+[![](naturaleza_kalanchoe_thumb.jpeg)](naturaleza_kalanchoe.jpeg){:.new}
+[![](naturaleza_violeta_color_thumb.jpeg)](naturaleza_violeta_color.jpeg){:.new}
 [![](foto_gatito_thumb.jpeg)](foto_gatito.jpeg)
+[![](naturaleza_cuate_thumb.jpeg)](naturaleza_cuate.jpeg){:.new}
+[![](naturaleza_gatin_thumb.jpeg)](naturaleza_gatin.jpeg){:.new}
+[![](naturaleza_kukka_thumb.jpeg)](naturaleza_kukka.jpeg){:.new}
+[![](naturaleza_arturo1_thumb.jpeg)](naturaleza_arturo1.jpeg){:.new}
+[![](naturaleza_arturo2_thumb.jpeg)](naturaleza_arturo2.jpeg){:.new}
 <br>
 <hr/>
 <br>
@@ -59,7 +66,13 @@ Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, 
 [![](objeto_jarra_thumb.jpeg)](objeto_jarra.jpeg)
 [![](objeto_frasco_thumb.jpeg)](objeto_frasco.jpeg)
 [![](objeto_bacha_thumb.jpeg)]()
-[![](objeto_guitarra_thumb.jpeg)](objeto_guitarra.jpeg){:.new}
+[![](objeto_guitarra_thumb.jpeg)](objeto_guitarra.jpeg)
+[![](objeto_osito_thumb.jpeg)](objeto_osito.jpeg){:.new}
+[![](varios_campana_thumb.jpeg)](varios_campana.jpeg){:.new}
+[![](varios_cinta_metrica_thumb.jpeg)](varios_cinta_metrica.jpeg){:.new}
+[![](varios_lapicero_thumb.jpeg)](varios_lapicero.jpeg){:.new}
+[![](varios_mortero_thumb.jpeg)](varios_mortero.jpeg){:.new}
+[![](varios_verduras_thumb.jpeg)](varios_verduras.jpeg){:.new}
 <br>
 <hr/>
 <br>
@@ -103,7 +116,13 @@ Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, 
 <br>
 
 ## Otros
-[![](varios_gatoTosiendo_thumb.jpeg)](varios_gatoTosiendo.jpeg){:.new}
+[![](varios_gatoTosiendo_thumb.jpeg)](varios_gatoTosiendo.jpeg)
+[![](foto_embrion3_thumb.jpeg)](foto_embrion3.jpeg){:.new}
+[![](varios_aires_thumb.jpeg)](varios_aires.jpeg){:.new}
+[![](varios_breccia_calavera_thumb.jpeg)](varios_breccia_calavera.jpeg){:.new}
+[![](varios_laboratorio1_thumb.jpeg)](varios_laboratorio1.jpeg){:.new}
+[![](varios_laboratorio2_thumb.jpeg)](varios_laboratorio2.jpeg){:.new}
+[![](varios_laboratorio3_thumb.jpeg)](varios_laboratorio3.jpeg){:.new}
 <br>
 <hr/>
 <br>
@@ -115,6 +134,9 @@ Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, 
 [![](paisaje_puente_thumb.jpeg)](paisaje_puente.jpeg)
 [![](paisaje_galpon_thumb.jpeg)](paisaje_galpon.jpeg)
 [![](paisaje_casaYEscalera_thumb.jpeg)](paisaje_casaYEscalera.jpeg)
+[![](foto_catedral_ovd_thumb.jpeg)](foto_catedral_ovd.jpeg){:.new}
+[![](foto_puerta_gatos_thumb.jpeg)](foto_puerta_gatos.jpeg){:.new}
+[![](varios_lavadero_thumb.jpeg)](varios_lavadero.jpeg){:.new}
 <br>
 <hr/>
 <br>
@@ -146,3 +168,4 @@ Dibujos de cosas y lugares que he observado, dibujos copiados, dibujos robados, 
 [![](ejercicio_morron_thumb.jpeg)](ejercicio_morron.jpeg)
 [![](ejercicio_caballo_thumb.jpeg)](ejercicio_caballo.jpeg)
 [![](textura_varios_thumb.jpeg)](textura_varios.jpeg)
+[![](ejercicio_columna_thumb.jpeg)](ejercicio_columna.jpeg){:.new}
